@@ -1,5 +1,5 @@
 <span id="a">code@pepperinsalt</span>:<span id="b">~</span><span id="c">$</span> cd pepperinsalt/About_Us
-<span id="a">coder@pepperinsalt</span>:<span id="b">~</span><span id="c">$</span> cat pepperinsalt.txt<br/><br/>
+<span id="a">code@pepperinsalt</span>:<span id="b">~</span><span id="c">$</span> cat pepperinsalt.txt<br/><br/>
 Testing... Testing... "<span id="k">Hello World!</span>". <!-- sjkfhskjf -->
 
 Hey there this is pepperinsalt's Terminal
@@ -9,6 +9,8 @@ Hey there this is pepperinsalt's Terminal
 <p>I have a love for Terminal, XHTML, HTML, CSS, SASS, UX-UI, Javascript, and PHP (Laravel)</p>
 <p>When I'm not playing Rocket League with my son Raiden I also enjoy tinkering around with Arduino, Raspberry Pi, and different varations of Linux. Currently I'm running popOS a version of Ubuntu. I'm currently pursusing new opportunities<br><br><br</p>
 
-As always <!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="pepperinsalt@gmail.com">Email</a>.
+Please if you wanna know more visit my <a href="#">website</a><!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="pepperinsalt@gmail.com"> pepperinsalt@gmail.com</a>.
 
 <p>Cheers!</p>
+
+<span id="a">code@pepperinsalt</span>:<span id="b">~</span><span id="c">$</span> Press the space bar to continue...
