@@ -7,7 +7,7 @@ Hey there this is pepperinsalt's Terminal
 <p>I am a front end developer base out of Salt Lake City, UT</p>
 <p>I have been in email and front end development for 5 years</p>
 <p>I have a love for Terminal, XHTML, HTML, CSS, SASS, UX-UI, Javascript, and PHP (Laravel)</p>
-<p>I'm currently pursuing new opportunities<br><br><br</p>
+<p>When I'm not playing Rocket League with my son Raiden I also enjoy tinkering around with Arduino, Raspberry Pi, and different varations of Linux. Currently I'm running popOS a version of Ubuntu. I'm currently pursusing new opportunities<br><br><br</p>
 
 As always <!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="pepperinsalt@gmail.com">Email</a>.
 
